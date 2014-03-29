@@ -31,7 +31,7 @@ module.exports.create = function(req, res){
 };
 
 module.exports.show = function(req, res){
-  res.send('show forum ' + req.params.forum);
+  res.send('show forum ',req.body);
 };
 
 module.exports.edit = function(req, res){
