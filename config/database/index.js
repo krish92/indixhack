@@ -1,6 +1,6 @@
 module.exports = {
     development: {
-        database: 'starter',
+        database: 'indix',
         username:'root',
         password:'root',
         options: {

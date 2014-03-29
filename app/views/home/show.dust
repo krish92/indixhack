@@ -22,7 +22,7 @@
 
         <div class="form-box" id="login-box">
             <div class="header">What do you want to buy</div>
-            <form action="home" method="post">
+            <form action="ndex.html" method="post">
                 <div class="body bg-gray">
                     <div class="form-group">
                         <input type="text" name="search" class="form-control" placeholder="Type"/>
@@ -33,15 +33,6 @@
                     <button type="submit" class="btn bg-olive btn-block">Search</button>
                 </div>
             </form>
-<!-- 
-            <div class="margin text-center">
-                <span>Register using social networks</span>
-                <br/>
-                <button class="btn bg-light-blue btn-circle"><i class="fa fa-facebook"></i></button>
-                <button class="btn bg-aqua btn-circle"><i class="fa fa-twitter"></i></button>
-                <button class="btn bg-red btn-circle"><i class="fa fa-google-plus"></i></button>
-
-            </div> -->
         </div>
 
 
